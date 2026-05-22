@@ -1,5 +1,5 @@
 
-# RTM Analysis - Real-Time Managment
+# RTM Analysis - Real-Time Monitoring
 
 ## Project Overview
 
