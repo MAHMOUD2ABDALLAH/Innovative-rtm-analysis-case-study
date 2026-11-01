@@ -224,5 +224,3 @@ RTM-Analysis/
 
 ### Any Questions
 **Mahmoud_Abdallah20@outlook.com**
-
-<img width="300" height="300" alt="Innovative" src="./Innovative.svg" />
